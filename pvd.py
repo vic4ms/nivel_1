@@ -6,7 +6,7 @@ lista_finais = []
 print("=== CAIXA / PDV INICIADO ===")
 print("Digite 0 no valor da compra para encerrar e ver o resumo.\n")
 
-# Loop principal de compras
+# Repetições principal de compras
 while True:
     valor_original = float(input("Digite o valor da compra (R$): "))
     
